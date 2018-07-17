@@ -27,13 +27,13 @@
     "async": "^2.6.1",
     "google-contacts-crud": "github:FelipeBarrosCruz/google-contacts-crud",
     "googleapis": "^32.0.0",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
-    "babel-polyfill": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
