@@ -106,5 +106,4 @@ export default class GoogleContact {
     }
     return this.googleContactCrud.addContact(options)
   }
-
 }
